@@ -1,8 +1,0 @@
-<Solution>
-  <Project Path="GoAirSecurity/GoAirSecurity.csproj" />
-  <Project Path="M1_Practice/M1_Practice.csproj" />
-  <Project Path="MyNameIsYours/MyNameIsYours.csproj" />
-  <Project Path="PasswordGenerator/PasswordGenerator.csproj" />
-  <Project Path="ShopValidator/ShopValidator.csproj" />
-  <Project Path="WordWand/WordWand.csproj" />
-</Solution>
